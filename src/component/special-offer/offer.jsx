@@ -7,10 +7,10 @@ export const Offer = () => (
     <div className="offer">
         <div className="small-container">
             <div className="row">
-                <div className="col-2">
+                <div className="col-3">
                     <img src={Offerimg} className="offer-img"/>
                 </div>
-                <div className="col-2">
+                <div className="col-3">
                     <p>Exclusively Available on Adios Accessories</p>
                     <h1>Flexible Vannerie Bracelet </h1>
                     <p>

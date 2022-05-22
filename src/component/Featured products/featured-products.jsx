@@ -20,7 +20,7 @@ export const FeaturedProducts = () => (
     <div className="small-container">
         <h2 className="title">Featured Products</h2>
         <div className="row">
-            <div className="col-4">
+            <div className="col-2">
                 <img src={pro1}/>
                 <a href="#">
                     <h4>Round Clear Lens Frames</h4>
@@ -39,7 +39,7 @@ export const FeaturedProducts = () => (
                 </div>
                 <p>15.00 TND</p>
             </div>
-            <div className="col-4">
+            <div className="col-2">
                 <img src={pro2}/>
                 <h4>Butterfly neckless</h4>
                 <div class="rating">
@@ -55,7 +55,7 @@ export const FeaturedProducts = () => (
                 </div>
                 <p>15.00 TND</p>
             </div>
-            <div className="col-4">
+            <div className="col-2">
                 <img src={pro3}/>
                 <h4>Necklace</h4>
                 <div className="rating">
@@ -71,7 +71,7 @@ export const FeaturedProducts = () => (
                 </div>
                 <p>15.00 TND</p>
             </div>
-            <div className="col-4">
+            <div className="col-2">
                 <img src={pro4}/>
                 <h4>Sunglasses</h4>
                 <div className="rating">
@@ -91,7 +91,7 @@ export const FeaturedProducts = () => (
         </div>
         <h2 className="title">Latest Products</h2>
         <div className="row">
-            <div className="col-4">
+            <div className="col-2">
             <img src={pro5}/>
                 <h4>Necklace Van Cleef</h4>
                 <div className="rating">
@@ -107,7 +107,7 @@ export const FeaturedProducts = () => (
                 </div>
                 <p>15.00 TND</p>
             </div>
-            <div className="col-4">
+            <div className="col-2">
             <img src={pro6}/>
                 <h4>Blue Sunglasses</h4>
                 <div className="rating">
@@ -123,7 +123,7 @@ export const FeaturedProducts = () => (
                 </div>
                 <p>15.00 TND</p>
             </div>
-            <div className="col-4">
+            <div className="col-2">
             <img src={pro7}/>
                 <h4>Necklace Bvlgari</h4>
                 <div className="rating">
@@ -139,7 +139,7 @@ export const FeaturedProducts = () => (
                 </div>
                 <p>15.00 TND</p>
             </div>
-            <div className="col-4">
+            <div className="col-2">
             <img src={pro8}/>
                 <h4>Double Chaine Necklace</h4>
                 <div className="rating">
@@ -158,7 +158,7 @@ export const FeaturedProducts = () => (
 
         </div>
         <div className="row">
-            <div className="col-4">
+            <div className="col-2">
             <img src={pro9}/>
                 <h4>Snake Bracelet</h4>
                 <div className="rating">
@@ -174,7 +174,7 @@ export const FeaturedProducts = () => (
                 </div>
                 <p>15.00 TND</p>
             </div>
-            <div className="col-4">
+            <div className="col-2">
             <img src={pro10}/>
                 <h4>Double Chaine Necklace</h4>
                 <div className="rating">
@@ -190,7 +190,7 @@ export const FeaturedProducts = () => (
                 </div>
                 <p>15.00 TND</p>
             </div>
-            <div className="col-4">
+            <div className="col-2">
             <img src={pro11}/>
                 <h4>Brown Sunglasses</h4>
                 <div className="rating">
@@ -206,7 +206,7 @@ export const FeaturedProducts = () => (
                 </div>
                 <p>15.00 TND</p>
             </div>
-            <div className="col-4">
+            <div className="col-2">
             <img src={pro12}/>
                 <h4>Double Chaine necklace</h4>
                 <div className="rating">

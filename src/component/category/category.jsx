@@ -10,12 +10,12 @@ export const CategoryImg = () => (
     <div className="categories">
         <div className="small-container">
             <div className="row">
-                <div className="col-3">
+                <div className="col-1">
                     <img src={categoryImg1} />
                 </div>
-                <div className="col-3"> <img src={categoryImg2} />
+                <div className="col-1"> <img src={categoryImg2} />
                 </div>
-                <div className="col-3">
+                <div className="col-1">
                     <img src={categoryImg3} />
 
                 </div>

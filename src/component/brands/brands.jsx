@@ -10,19 +10,19 @@ export const Brands = () => (
     <div className="brands">
         <div className="small-container">
             <div className="row">
-                <div className="col-5">
+                <div className="col-4">
                     <img src={Brand1}/>
                 </div>
-                <div className="col-5">
+                <div className="col-4">
                     <img src={Brand2}/>
                 </div>
-                <div className="col-5">
+                <div className="col-4">
                     <img src={Brand3}/>
                 </div>
-                <div className="col-5">
+                <div className="col-4">
                     <img src={Brand4}/>
                 </div>
-                <div className="col-5">
+                <div className="col-4">
                     <img src={Brand5}/>
                 </div>
             </div>
