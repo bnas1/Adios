@@ -8,10 +8,8 @@ body{
   font-family: 'Poppins', sans-serif;
 }
 .container{
-  max-width: 1300px;
+  max-width: 100%;
   margin:auto;
-  padding-left: 25px;
-  padding-right: 25px;
 }
 .small-container {
   max-width: 1080px;

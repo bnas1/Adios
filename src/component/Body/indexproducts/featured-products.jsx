@@ -227,3 +227,4 @@ export const FeaturedProducts = () => (
     </div>
     
 );
+export default FeaturedProducts;

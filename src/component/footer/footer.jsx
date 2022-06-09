@@ -1,12 +1,13 @@
 import React from "react";
 import logo from "./logo.png"
 import "./footer-styles.css"
-export const Footer = () => (
+import { Link } from "react-router-dom";
+const Footer = () => (
 
     <div className="footer">
         <div className="container">
             <div className="footer-1">
-                <a href="#"><img src={logo}/></a>
+                <Link to='/#'><img src={logo}/></Link>
                 <p>Our purpose is to sustainably make the pleasure and benefits of women's accessories accessible to
                     the many.</p>
             </div>
@@ -24,3 +25,4 @@ export const Footer = () => (
     </div>
 
 )
+export default Footer;
